@@ -31,6 +31,11 @@ Misskey用の日本語Botです。
 ## 記憶
 藍は記憶の保持にインメモリデータベースを使用しており、藍のインストールディレクトリに `memory.json` という名前で永続化されます。
 
+## Credits
+
+Thanks for [DartNode](https://dartnode.com) that sponsors this project with its free VPS for open-source developers!
+<h1><p align="center"><img src="https://app.dartnode.com/assets/dash/images/brand/logo.png" alt="DartNode" height="292"></p></h1>
+
 ## ライセンス
 MIT
 
